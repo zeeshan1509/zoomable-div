@@ -98,7 +98,7 @@ export interface SpaceProps extends React.PropsWithChildren {
    * be ignored.
    */
   readonly treatTwoFingerTrackPadGesturesLikeTouch?: boolean;
-  //if one of the pressable is seleted
+  // if one of the pressable is seleted
   readonly isWheelDisabled?: boolean;
 }
 
