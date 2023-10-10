@@ -1,0 +1,41 @@
+{
+  "cSpell.words": [
+    "Flexbox",
+    "Interactable",
+    "Pressable",
+    "Scrollable",
+    "Unmount",
+    "Zoomable",
+    "div's",
+    "gesturechange",
+    "gestureend",
+    "gesturestart",
+    "internalapi",
+    "pancancel",
+    "panend",
+    "panmove",
+    "panstart",
+    "panzoom",
+    "pinchcancel",
+    "pinchend",
+    "pinchmove",
+    "pinchstart",
+    "rederive"
+  ],
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "example": true,
+    "dist": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "example": true,
+    "dist": true
+  }
+}
