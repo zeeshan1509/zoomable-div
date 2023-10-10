@@ -29,13 +29,13 @@
     "**/CVS": true,
     "**/.DS_Store": true,
     "example": true,
-    "dist": true
+    "dist": false
   },
   "search.exclude": {
     "**/node_modules": true,
     "**/bower_components": true,
     "**/*.code-search": true,
     "example": true,
-    "dist": true
+    "dist": false
   }
 }
