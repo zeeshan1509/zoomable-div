@@ -201,7 +201,7 @@ export class ViewPort {
     this.translateClientRectToVirtualSpace = this.translateClientRectToVirtualSpace.bind(this);
 
     // Set the div's styles
-    this.containerDiv.style.overflow = 'hidden';
+    this.containerDiv.style.overflow = 'auto';
     this.containerDiv.style.padding = '0';
 
     // Setup other stuff
