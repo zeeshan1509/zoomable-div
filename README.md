@@ -1,5 +1,5 @@
-forked from https://github.com/aarondail/react-zoomable-ui
-
+Forked from https://github.com/aarondail/react-zoomable-ui
+isWheelDisabled: boolean - prop
 # React Zoomable UI
 
 Make your HTML elements and [React](https://reactjs.com) components zoomable, and build interesting zoomable UIs. Supports zooming and panning via touch and mouse interactions.
